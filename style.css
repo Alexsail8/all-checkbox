@@ -1,0 +1,13 @@
+
+.checkbox-section {
+	width: 200px;
+}
+.nthColorLight .checkbox-section_field:nth-child(2n+1) {
+  background-color: #f1efef;
+}
+
+input[type=checkbox] {
+  width: 20px;
+  height: 20px;
+  margin: 7px 15px;
+}
